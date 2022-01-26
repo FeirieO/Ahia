@@ -1,0 +1,26 @@
+{
+  "name": "ahia",
+  "version": "1.0.0",
+  "description": "Let's Shop!",
+  "main": "Server.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "bangajs": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FeirieO/Ahia.git"
+  },
+  "author": "Feirie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FeirieO/Ahia/issues"
+  },
+  "homepage": "https://github.com/FeirieO/Ahia#readme"
+}
