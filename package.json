@@ -4,10 +4,15 @@
   "description": "Let's Shop!",
   "main": "Server.js",
   "dependencies": {
-
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
   },
   "devDependencies": {
-    "bangajs": "^1.1.0"
+    "bangajs": "^1.1.0",
+    "nodemon": "^2.0.15"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
